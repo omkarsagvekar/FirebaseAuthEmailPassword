@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "624345491769",
+    "firebase_url": "https://myfirstproject-5e907-default-rtdb.firebaseio.com",
+    "project_id": "myfirstproject-5e907",
+    "storage_bucket": "myfirstproject-5e907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624345491769:android:57a9e1b32f578cf893e0e8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624345491769-c3fh5j12tluj7n1omkan71pmunc0othf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzEWVWENoZzlh9VKTyGhHy9Vgbe7n4No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624345491769-c3fh5j12tluj7n1omkan71pmunc0othf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624345491769:android:c3fc8d223b04c8a693e0e8",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624345491769-c3fh5j12tluj7n1omkan71pmunc0othf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzEWVWENoZzlh9VKTyGhHy9Vgbe7n4No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624345491769-c3fh5j12tluj7n1omkan71pmunc0othf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624345491769:android:ed33e7bd51f216bd93e0e8",
+        "android_client_info": {
+          "package_name": "com.example.sqlcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624345491769-c3fh5j12tluj7n1omkan71pmunc0othf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzEWVWENoZzlh9VKTyGhHy9Vgbe7n4No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624345491769-c3fh5j12tluj7n1omkan71pmunc0othf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
